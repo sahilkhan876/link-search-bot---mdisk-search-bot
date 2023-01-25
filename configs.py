@@ -38,7 +38,7 @@ I'm Link Search Bot.🤖
 
 I Can Search 🔍 What You Want❗
 
-<a>Made With ❤ By @GreyMatter_Bots</a></b>
+<a>Made With ❤ By @Bot_channel_12</a></b>
 """
 
 
@@ -49,6 +49,6 @@ I'm Link Search Bot.🤖
 
 I Can Search 🔍 What You Want❗
 
-<a>Made With ❤ By @GreyMatter_Bots</a></b>
+<a>Made With ❤ By @Bot_channel_12</a></b>
 """
 
