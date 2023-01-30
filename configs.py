@@ -11,7 +11,7 @@ class Config(object):
     BOT_USERNAME = os.environ.get("BOT_USERNAME", "Mdsik_moviebot")
     BOT_OWNER = int(os.environ.get("BOT_OWNER", "5537442735"))
     DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://Mdsikmoviebot:Mdsikmoviebot@cluster0.xwbcpg3.mongodb.net/?retryWrites=true&w=majority")
-    UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "Bot_channel_12")
+    UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "updates_channel_link")
     ABOUT_BOT_TEXT = """<b>This is Link Search Bot.
     
     
@@ -38,7 +38,7 @@ I'm Link Search Bot.🤖
 
 I Can Search 🔍 What You Want❗
 
-<a>Made With ❤ By @Bot_channel_12</a></b>
+<a>Made With ❤ By @updates_channel_link</a></b>
 """
 
 
@@ -49,6 +49,6 @@ I'm Link Search Bot.🤖
 
 I Can Search 🔍 What You Want❗
 
-<a>Made With ❤ By @Bot_channel_12</a></b>
+<a>Made With ❤ By @updates_channel_link</a></b>
 """
 
